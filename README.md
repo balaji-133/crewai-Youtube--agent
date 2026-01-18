@@ -77,7 +77,7 @@ Each agent has a **single responsibility**, making the system modular and scalab
 
 ```bash
 python crew.py
-
+-python crew.py
 ---
 
 ## 🧩 Project Structure
